@@ -1,0 +1,15 @@
+{
+  "name": "ynwac-timer",
+  "version": "0.1.0",
+  "description": "Empty Chrome extension template for YNWAC Timer.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/validate-extension.mjs",
+    "dev": "node scripts/validate-extension.mjs --watch"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {}
+}
